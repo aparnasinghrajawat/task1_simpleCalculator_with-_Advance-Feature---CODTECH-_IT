@@ -2,12 +2,12 @@
 
 This documentation elucidates the task accomplished during the Codtech IT Solutions Internship program assigned to Aparna Singh Rajawat, with ID COD5739. The task entails developing a Java program for a simple calculator with advanced features, including addition, subtraction, multiplication, division, exponentiation, and the option to quit.
 
-**Task DescriptioN**:
+**Task Description**:
 Aparna Singh Rajawat's assignment during the Codtech IT Solutions Internship program was to create a Java program for a simple calculator. The calculator is expected to offer basic arithmetic operations and advanced functionalities such as exponentiation. Additionally, the program should allow users to exit at their discretion.
 
-Interm Information: 
+Intern Information: 
 Name: Aparna Singh Rajawat
-Interm ID: COD5739
+Intern ID: COD5739
 
 **Implementation**:
 The implementation of the task involves utilizing Java programming language to create a simple yet efficient calculator program. The code employs a 'while' loop for functionality efficiency. Below is the code implementation.
