@@ -1,14 +1,17 @@
-Introduction:
+**Introduction**:
+
 This documentation elucidates the task accomplished during the Codtech IT Solutions Internship program assigned to Aparna Singh Rajawat, with ID COD5739. The task entails developing a Java program for a simple calculator with advanced features, including addition, subtraction, multiplication, division, exponentiation, and the option to quit.
 
-Task Description:
+**Task DescriptioN**:
 Aparna Singh Rajawat's assignment during the Codtech IT Solutions Internship program was to create a Java program for a simple calculator. The calculator is expected to offer basic arithmetic operations and advanced functionalities such as exponentiation. Additionally, the program should allow users to exit at their discretion.
 
-Implementation:
+Interm Information: 
+Name: Aparna Singh Rajawat
+Interm ID: COD5739
+
+**Implementation**:
 The implementation of the task involves utilizing Java programming language to create a simple yet efficient calculator program. The code employs a 'while' loop for functionality efficiency. Below is the code implementation.
 
-java
-Copy code
 import java.util.Scanner;
 
 public class SimpleCalculator {
@@ -57,20 +60,19 @@ public class SimpleCalculator {
         sc.close();
     }
 }
-Features:
 
-Menu-Driven Interface
-Arithmetic Operations
-Error Handling
-Looping Structure
-Resource Management
-Code Explanation:
+**Features**:
+
+. Menu-Driven Interface
+. Arithmetic Operations
+. Error Handling
+. Looping Structure
+. Resource Management
+**Code Explanation** :
 The program initiates by initializing a Scanner object to read user input. It then enters a while loop to continuously prompt the user for input until they opt to quit by entering '6'. Within each iteration of the loop, the menu of operation choices is displayed, and the user selects an operation. If the user chooses to quit, the program exits the loop and displays a farewell message. Otherwise, the program prompts the user to input two numbers for the selected operation. Based on the chosen operator, the program performs the corresponding arithmetic operation and displays the result. After the loop ends, the Scanner object is closed to release system resources.
 
-Execution Example:
+**Execution Example**:
 
-plaintext
-Copy code
 1 - Add 
 2 - Subtract
 3 - Multiply
@@ -110,21 +112,14 @@ Entered operator is not valid.
 5 - Exponentiation 
 6 - Quit
 Choose operator: 6
-Calculator is exiting. Goodbye!
-User Interaction:
+++++Calculator is exiting. Goodbye!++++
+**User Interaction**:
 
 The user is presented with a menu of operation choices.
 They select an operation by entering the corresponding number.
 They input two numbers for the selected operation.
 The result of the operation is displayed.
 They can choose to perform another calculation or exit the program.
-Conclusion:
+
+**Conclusion**:
 The Simple Calculator program provides a straightforward solution for basic arithmetic calculations. Its user-friendly interface, error handling, and resource management enhance its usability and effectiveness. The modular structure of the code ensures scalability and maintainability.
-
-
-
-
-
-Message ChatGPT…
-
-ChatGPT can make mistakes. Consider checking importa
